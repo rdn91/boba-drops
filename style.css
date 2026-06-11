@@ -80,3 +80,7 @@ hr{
     width: 100px;
     height: 100px;
 }
+.about{
+    text-align: center;
+    align-items: center;
+}
