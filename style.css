@@ -1,14 +1,14 @@
 @font-face {
-    font-family: Minecraft;
-    src:url('fonts/minecraft.woff2') format('woff2');
-    src:url('fonts/minecraft.woff') format('woff');
-    src:url('fonts/minecraft.ttf') format('truetype');
+    font-family: 'Minecraft';
+    src: url('fonts/minecraft.woff2') format('woff2');
+    src: url('fonts/minecraft.woff') format('woff');
+    src: url('fonts/minecraft.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 body {
-    font-family: Minecraft;
-    background-color: aquamarine;
+    font-family: 'Minecraft';
+    background-color: green;
     text-align: center;
 }
 
