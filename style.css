@@ -70,3 +70,13 @@ hr{
     color: black;
     font-weight: bold;
 }
+.linkedin-image{
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+.github-image{
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
